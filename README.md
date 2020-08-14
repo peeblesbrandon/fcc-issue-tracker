@@ -1,17 +1,11 @@
-# Issue Tracker API
-REST API for opening and tracking project issues. Can assign to users, add status, close issues, etc. [Click here to view the live demo](https://large-shared-wallflower.glitch.me).
+**FreeCodeCamp**- Information Security and Quality Assurance
+------
+[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-issuetracker)](https://repl.it/github/freeCodeCamp/boilerplate-project-issuetracker)
+Project Issue Tracker
 
-Automated functional tests have been implemented using Chai and security features enabled using HelmetJS. 
+1) SET NODE_ENV to `test` without quotes and set DB to your mongo connection string in .env file
+2) Complete the project in `routes/api.js` or by creating a handler/controller
+3) You will add any security features to `server.js`
+4) You will create all of the functional tests in `tests/2_functional-tests.js`
 
-_This app was built according to [freeCodeCamp specifications](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker) as part of their Full-Stack Web Development curriculum._
-
-## Built with
-* Node.js
-* Express
-* HelmetJS (security)
-* Chai (testing)
-* Glitch (host)
-
-## Author
-Brandon Peebles
 
